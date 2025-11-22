@@ -1,0 +1,62 @@
+7384173
+Amount : 100.0
+Time (in minutes) : 297
+Position X : 4
+Position Y : 3
+Hourly Rate : 23.0
+Fixed Rate : 100.0
+Four Wheeler, Cars
+
+6558497
+Amount : 200.0
+Time (in minutes) : 501
+Position X : 20
+Position Y : 12
+Hourly Rate : 24.0
+Fixed Rate : 200.0
+Four Wheeler, Cars
+
+4436637
+Amount : 500.0
+Time (in minutes) : 112
+Position X : 25
+Position Y : 12
+Hourly Rate : 55.0
+Fixed Rate : 500.0
+Heavy Vehicles, Trucks and Lorries
+
+912819
+Amount : 177.23334
+Time (in minutes) : 409
+Position X : 99
+Position Y : 50
+Hourly Rate : 26.0
+Fixed Rate : 300.0
+Four Wheeler, Cars
+
+1163183
+Amount : 50.0
+Time (in minutes) : 250
+Position X : 45
+Position Y : 90
+Hourly Rate : 12.0
+Fixed Rate : 200.0
+Four Wheeler, Electric
+
+2546647
+Amount : 25.199999
+Time (in minutes) : 54
+Position X : 77
+Position Y : 32
+Hourly Rate : 28.0
+Fixed Rate : 400.0
+Heavy Vehicles, Trucks and Lorries
+
+8218191
+Amount : 188.29999
+Time (in minutes) : 538
+Position X : 65
+Position Y : 65
+Hourly Rate : 21.0
+Fixed Rate : 100.0
+Four Wheeler, Cars
