@@ -7,11 +7,11 @@ public enum Symbol {
 
     private final char sign;
 
-    private Symbol(char sign){
+    private Symbol(char sign) {
         this.sign = sign;
     }
 
-    public char getSign(){
+    public char getSign() {
         return this.sign;
     }
 
