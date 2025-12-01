@@ -1,0 +1,21 @@
+500 30 
+200 20 
+100 50 
+
+Current Balance : 150000.0
+5 notes of denomination 500 were disbursed
+0 notes of denomination 200 were disbursed
+0 notes of denomination 100 were disbursed
+Current Balance : 147500.0
+500 25 
+200 20 
+100 50 
+
+Current Balance : 325000.5
+10 notes of denomination 500 were disbursed
+0 notes of denomination 200 were disbursed
+0 notes of denomination 100 were disbursed
+Current Balance : 320000.5
+500 15 
+200 20 
+100 50 
