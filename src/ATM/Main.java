@@ -24,6 +24,8 @@ public class Main {
         Bank b1 = new Bank("Falana Dhikana Bank", "FDB000923");
         User u1 = new User("Rishav Panda", "8997875674");
         User u2 = new User("Meghna Jha", "8877744432");
+        b1.addUser(u1);
+        b1.addUser(u2);
         BankAccount ba1 = new BankAccount("92928383839");
         BankAccount ba2 = new BankAccount("939393939020");
         u1.addBankAccount(ba1);
