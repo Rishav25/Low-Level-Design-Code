@@ -19,3 +19,25 @@ Current Balance : 320000.5
 500 15 
 200 20 
 100 50 
+
+exceptions.InvalidOperationException: Please select the correct option
+        at models.ATMMachine.checkOperation(ATMMachine.java:83)
+        at models.ATMMachine.getBalance(ATMMachine.java:47)
+        at Main.main(Main.java:63)
+Current Balance : 320000.5
+0 notes of denomination 500 were disbursed
+1 notes of denomination 200 were disbursed
+1 notes of denomination 100 were disbursed
+Current Balance : 319700.5
+500 15 
+200 19 
+100 49 
+
+Current Balance : 319700.5
+15 notes of denomination 500 were disbursed
+12 notes of denomination 200 were disbursed
+1 notes of denomination 100 were disbursed
+Current Balance : 309700.5
+500 0 
+200 7 
+100 48 

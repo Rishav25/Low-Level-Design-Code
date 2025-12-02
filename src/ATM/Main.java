@@ -60,5 +60,21 @@ public class Main {
         atm.withdrawBalance(atmC2, 5000);
         System.out.println(atm.getCashDispenser().getNoteCounts());
 
+        atm.getBalance(atmC2);
+
+        atm.validatePin(atmC2, "9876");
+        atm.setMenuOption(MenuOptions.DISPLAY_BALANCE);
+        atm.getBalance(atmC2);
+        atm.setMenuOption(MenuOptions.WITHDRAW_CASH);
+        atm.withdrawBalance(atmC2, 300);
+        System.out.println(atm.getCashDispenser().getNoteCounts());
+
+        atm.validatePin(atmC2, "9876");
+        atm.setMenuOption(MenuOptions.DISPLAY_BALANCE);
+        atm.getBalance(atmC2);
+        atm.setMenuOption(MenuOptions.WITHDRAW_CASH);
+        atm.withdrawBalance(atmC2, 10000);
+        System.out.println(atm.getCashDispenser().getNoteCounts());
+
     }
 }
