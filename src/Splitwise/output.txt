@@ -1,10 +1,45 @@
-Rahul : 15000.0
-Meghna : 9000.0
-Sneha : 45000.0
+Before Simplification : 
+Rishav
+Rahul : -30000.00
+Meghna : -1000.00
+Sneha : -33333.33
 
-Rahul : -40000.0
-Rishav : -9000.0
+Meghna
+Rahul : 5000.00
+Rishav : 1000.00
+Sneha : 45000.00
 
-Rishav : -15000.0
-Meghna : 40000.0
-Sneha : 20000.0
+Rahul
+Rishav : 30000.00
+Meghna : -5000.00
+Sneha : -13333.33
+
+Sneha
+Rahul : 13333.33
+Rishav : 33333.33
+Meghna : -45000.00
+
+---------------------
+
+---------------------
+
+After Simplification : 
+Rishav
+Rahul : -11666.67
+Meghna : -51000.00
+Sneha : -1666.67
+
+Meghna
+Rahul : 0.00
+Rishav : 51000.00
+Sneha : 0.00
+
+Rahul
+Rishav : 11666.67
+Meghna : 0.00
+Sneha : 0.00
+
+Sneha
+Rahul : 0.00
+Rishav : 1666.67
+Meghna : 0.00

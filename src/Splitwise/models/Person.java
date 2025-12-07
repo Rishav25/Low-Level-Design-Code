@@ -1,5 +1,6 @@
 package models;
 
+import java.util.Map;
 import java.util.UUID;
 
 public class Person {
@@ -23,6 +24,10 @@ public class Person {
 
     public BalanceSheet getBalanceSheet() {
         return this.balanceSheet;
+    }
+
+    public Map<Person, Double> getBalanceSheetMap() {
+        return this.balanceSheet.getBalanceSheetMap();
     }
 
 }
