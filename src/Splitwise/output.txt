@@ -1,0 +1,10 @@
+Rahul : 15000.0
+Meghna : 9000.0
+Sneha : 45000.0
+
+Rahul : -40000.0
+Rishav : -9000.0
+
+Rishav : -15000.0
+Meghna : 40000.0
+Sneha : 20000.0
