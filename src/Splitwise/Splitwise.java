@@ -144,7 +144,7 @@ public class Splitwise {
                 i++;
             // if debtor is done then we move the debtorList
             if (debtor.getValue() > -0.01)
-                i++;
+                j++;
 
         }
 
