@@ -1,0 +1,20 @@
+Generated Pin is 1234
+XS 727283 1234 Package 1 
+ ---------------------- 
+
+Generated Pin is 1234
+M 727286 1234 Package 2 
+ ---------------------- 
+
+Locker Not Found
+Cannot invoke "models.Locker.depositPackage(models.Parcel)" because "l" is null
+ 
+ ---------------------- 
+
+Generated Pin is 1234
+M 727221 1234 Package 4 
+ ---------------------- 
+
+Generated Pin is 1234
+XS 727289 1234 Package 5 
+ ---------------------- 
